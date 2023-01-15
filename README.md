@@ -1,4 +1,13 @@
-Hey!, I’m @JavierPineyro, I’m a Web Dev Jr and love Javascript! I try to learn all i can every day.
-- 🌱 I’m currently learning ReactJs and NodeJs
+### Javi here!🇦🇷 [@JavierPineyro], I’m a Web Dev Jr and love coding things!
 
-I'm so fan of videogames, and some day I really want to get better at english :) -> i'm also learning some portuguese
+🍊 Fullstack Developer 
+🍊 Javascript normie
+🍊 Falling in love with Typescript and NextJs
+🍊 Learning Astro🚀!
+🍊 React --- NodeJs --- MongoDb + Mysql ---  
+
+* I'm kinda good at english
+* Always learning
+* In college studying Computer Systems Analysis
+* About to learn german or portuguese
+* Self-taught
