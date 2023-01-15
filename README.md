@@ -1,10 +1,10 @@
-### Javi here! [@JavierPineyro], I’m a Web Dev Jr and love coding things!
+### Javi here! **[@JavierPineyro]**, I’m a Web Dev Jr and love coding things!
 
-🍊 Fullstack Developer/n
-🍊 Javascript normie/n
-🍊 Falling in love with Typescript and NextJs/n
-🍊 Learning Astro🚀! /n
-🍊 React --- NodeJs --- MongoDb + Mysql --- /n 
+<p>🍊 Fullstack Developer</p>
+<p>🍊 Javascript normie</p>
+<p>🍊 Falling in love with Typescript and NextJs</p>
+<p>🍊 Learning Astro🚀!</p>
+<p>🍊 React --- NodeJs --- MongoDb + Mysql ---</p>
 
 * I'm kinda good at english
 * Always learning
