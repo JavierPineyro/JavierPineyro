@@ -1,4 +1,4 @@
-### Javi here!🇦🇷 [@JavierPineyro], I’m a Web Dev Jr and love coding things!
+### Javi here! [@JavierPineyro], I’m a Web Dev Jr and love coding things!
 
 🍊 Fullstack Developer 
 🍊 Javascript normie
