@@ -1,9 +1,9 @@
-# Javier here! Fullstack Developer 💻
+# Javi here! I'm Fullstack Developer 💻
 
-<p>🚀 Typescript - Nextjs - React - Nodejs - Database (MySQL, MongoDb) 🚀</p>
+<p>🚀 Typescript - Nextjs - React - Nodejs - Database (MySQL,Postgres, MongoDb) 🚀</p>
 
-## I'm coding my [portfolio](https://javierpineyro-website.vercel.app), check it out!
+## I'm building my [portfolio](https://javierpineyro-website.vercel.app), check it out!
 
 * Spanish and English 💬 
 * I study Computer Systems Analysis 💻
-* Tailwindcss enjoyer and Bootstrap hater 🤍
+* Tailwind enjoyer and Bootstrap hater 🤍
