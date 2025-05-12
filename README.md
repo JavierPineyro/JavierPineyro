@@ -1,9 +1,10 @@
-# Javi here! I'm Fullstack Developer 💻
+# Hey! Soy Javi, Fullstack Developer 💻
 
-<p>🚀 Typescript - Java - SpringBoot - Nextjs - React - Nodejs - MySQL - PostgreSQL  🚀</p>
+<p>🚀 Typescript - Java - SpringBoot - Nextjs - React - Nodejs - MySQL - PostgreSQL - Docker  🚀</p>
 
-## I'm building my [portfolio](https://javierpineyro-website.vercel.app), check it out!
+## Mi portafolio (En contrucción) [portfolio](https://javierpineyro-website.vercel.app)
 
 * Spanish and English 💬 
-* Graduated -> Computer Systems Analysis 💻
+* Graduated -> Técnico Superior Analista de Sistemas 💻
 * Tailwind enjoyer 🤍
+
